@@ -1,0 +1,8 @@
+E:\project\c#\windows form\chatroom\chatroom\chatroom\obj\Debug\netcoreapp3.0\chatroom.F_Login.resources
+E:\project\c#\windows form\chatroom\chatroom\chatroom\obj\Debug\netcoreapp3.0\chatroom.Forms.F_SignUp.resources
+E:\project\c#\windows form\chatroom\chatroom\chatroom\obj\Debug\netcoreapp3.0\chatroom.Properties.Resources.resources
+E:\project\c#\windows form\chatroom\chatroom\chatroom\obj\Debug\netcoreapp3.0\chatroom.csproj.GenerateResource.cache
+E:\project\c#\windows form\chatroom\chatroom\chatroom\obj\Debug\netcoreapp3.0\chatroom.GeneratedMSBuildEditorConfig.editorconfig
+E:\project\c#\windows form\chatroom\chatroom\chatroom\obj\Debug\netcoreapp3.0\chatroom.AssemblyInfoInputs.cache
+E:\project\c#\windows form\chatroom\chatroom\chatroom\obj\Debug\netcoreapp3.0\chatroom.AssemblyInfo.cs
+E:\project\c#\windows form\chatroom\chatroom\chatroom\obj\Debug\netcoreapp3.0\chatroom.csproj.CoreCompileInputs.cache
